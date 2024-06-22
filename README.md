@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spike-Leonidov
+👋 Hi, I’m @Spike-Leonidov
 
 ![welcome-header](https://github.com/Spike-Leonidov/Spike-Leonidov/assets/155639797/0d43b580-86e7-41fb-a8db-0578ac6520fc)
 
